@@ -1,2 +1,5 @@
 NECS/Library
 NECS/UnityPackageManager
+*.csproj
+*.sln
+NECS/.vs
